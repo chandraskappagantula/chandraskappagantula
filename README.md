@@ -1,4 +1,4 @@
-## Hi there! I'm Chandra 👋
+## Hello there! I'm Chandra 👋
 ___
 
 I'm an undergraduate at Cal Poly SLO
