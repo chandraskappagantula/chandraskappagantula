@@ -1,7 +1,7 @@
 ## Hello there! I'm Chandra 👋
 ___
 
-I'm an undergraduate at Cal Poly SLO
+I'm a first year student and undergraduate at Cal Poly SLO
 
  - Physics B.S., planning on pursuing an Astronomy minor and CS minor
  - Passionate for astronomy/astrophysics research; dream career is to design space missions to contribute to the field of astrophysics (think Hubble, JWST, etc.)
