@@ -8,8 +8,8 @@ I'm a first year student and undergraduate at Cal Poly SLO
 
 ### Skills
 ___
- - **Languages**: Strong in Python, Java, Linux/Unix commands, WSL subsystems, and Arduino-specific C++ coding; fluent in HTML/CSS/JS web dev and LaTeX
- - **Tools**: Astronomy/astrophysics specific modules such as astropy, numpy & scipy, pyraf, and astroML, fluent in using WSL and Git Bash
+ - **Languages**: Strong in Python, Java, Linux/Unix commands, WSL subsystems, and Arduino-specific C++ coding; fluent in HTML/CSS/JS + TypeScript web dev and LaTeX
+ - **Tools**: Astronomy/astrophysics specific modules such as astropy, numpy & scipy, pyraf, and astroML, fluent in Linux (WSL) and Git Bash
 
 ### Current endeavors
 ___
