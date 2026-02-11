@@ -29,4 +29,4 @@ Feel free to reach out and connect! I'm always open to collaborations and learni
 
 chandraskappagantula@gmail.com | ckappaga@calpoly.edu | [LinkedIn](https://www.linkedin.com/in/chandrasekhar-kappagantula-a6315b231/)
 
-Personal website: chandraskappagantula.com
+Personal website: [chandraskappagantula.com](https://chandraskappagantula.com)
